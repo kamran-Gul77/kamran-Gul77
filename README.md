@@ -20,6 +20,7 @@
   <img src="https://static-00.iconduck.com/assets.00/sass-original-icon-512x383-jgjubb8s.png" alt="git" width="50" height="50">
   <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="git" width="50" height="50" style="margin-right: 15px;">
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="git" width="50" height="50" style="margin-right: 15px;">
+  <img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" alt="git" width="50" height="50" style="margin-right: 15px;">
 </p>
 
 
