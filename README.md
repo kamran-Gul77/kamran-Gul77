@@ -19,6 +19,7 @@
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" alt="git" width="50" height="50">
   <img src="https://static-00.iconduck.com/assets.00/sass-original-icon-512x383-jgjubb8s.png" alt="git" width="50" height="50">
   <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="git" width="50" height="50" style="margin-right: 15px;">
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="git" width="50" height="50" style="margin-right: 15px;">
 </p>
 
 
