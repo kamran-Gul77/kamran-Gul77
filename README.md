@@ -29,7 +29,7 @@
 <p align="left" style="color: gray;">🛂 Connect with me:</p>
 
 <p align="left">
-  <a href="linkedin.com/in/mkamran3" target="_blank">
+  <a href="https://linkedin.com/in/mkamran3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://mkamran.vercel.app" target="_blank">
