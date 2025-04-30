@@ -3,7 +3,7 @@
 🌎 A little bit about me:
 - 💻 I’m a Software Engineer.
 - 👩‍🎓 Highly passionate about front-end technologies.
-- 💞️ Currently, I am learning Python.
+- 💞️ Currently, I am gaining experince in backend tech as well.
 - 🏏 I love to playing cricket.
 
 👾 My everyday tech stack:
